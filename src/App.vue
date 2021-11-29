@@ -1,5 +1,5 @@
 <template>
-  <DataTimes />
+  <DataTimes></DataTimes>
 </template>
 
 <script>
