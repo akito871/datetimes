@@ -1,14 +1,14 @@
 <template>
-  <DataTimes></DataTimes>
+  <TimeDate/>
 </template>
 
 <script>
-import DateTimes from './components/datetime.vue'
+import TimeDate from './components/datetime.vue'
 
 export default {
   name: 'App',
   components: {
-    DateTimes
+    TimeDate
   }
 }
 </script>
